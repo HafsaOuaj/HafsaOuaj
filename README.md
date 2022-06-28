@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HafsaOuaj
+- 👀 I’m interested in Data Science and web developement
+- 🌱 I’m currently learning Data Science
+- 📫 These is my address mail : hafsaouajdimp@gmail.com
