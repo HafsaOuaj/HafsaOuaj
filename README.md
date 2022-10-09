@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hafsa Ouajdi
-- 👀 I’m interested in Data Science and web developement
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Virtual Reality and Augmented Reality,Data Science and web developement.
+- 🌱 I’m currently a M2 Student At Ecole Centrale de Nantes ,Option:Augmented and virtual Reality.I am studying also Data Science in my free time.
 - 📫 These is my address mail : hafsaouajdimp@gmail.com
