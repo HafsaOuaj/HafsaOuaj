@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafsa Ouajdi</h1>
-<h3 align="center">Data Scientist (Madrid, France) | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Scientist (Madrid, Spain) | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hafsa-ouajdi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
