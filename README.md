@@ -47,9 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hafsaouaj&show_icons=true&locale=en" alt="Hafsa's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsaouaj&" alt="Hafsa's GitHub Streak" />
-</p>
 
 ---
 
