@@ -8,7 +8,7 @@
 </p>
 
 ---
-- 🔭 **Recent Position**: Data Scientist in Madrid, Spain, in the domain of Transportation and Mobility.
+- 🔭 **Recent Position**: Data Scientist/ML engineer in Madrid, Spain, in the domain of Transportation and Mobility.
 - 🔭 **Recent Internship**: Intern at **SMS Group** in Luxembourg, working on anomaly detection and time series forecasting using AutoML.
 - 👯 **Collaboration**: I’m open to collaborating on **Machine Learning and Deep Learning Projects**.
 - 📝 **Blog**: I regularly write articles on [Medium](https://medium.com/@hafsaouajdimp).
@@ -39,14 +39,6 @@
   <a href="https://www.instagram.com/orchidstravel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
   <a href="https://medium.com/@hafsaouajdimp" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" alt="Medium" /></a>
 </p>
-
----
-
-### 📊 **GitHub Stats**:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafsaouaj&show_icons=true&locale=en" alt="Hafsa's GitHub Stats" />
-</p>
-
 
 ---
 
